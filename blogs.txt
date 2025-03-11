@@ -51,7 +51,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repel
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
 
 ---
-Title: Gray Side Of Humanity
+Title: Gray Side Of Humanity (3)
 Content: Humanity is often painted in black and white; good versus evil, right versus wrong...
 Thumbnail: https://magazine-backend.netlify.app/blog3/Thumbnail.jpg
 Image: https://magazine-backend.netlify.app/blog3/Image.jpg
