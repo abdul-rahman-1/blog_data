@@ -1,0 +1,75 @@
+Title: Inside the Mind of a Hacker:
+Content: When I glance at Instagram, I notice a goldmine of photos, stories, and personal information...
+Thumbnail: https://magazine-backend.netlify.app/blog1/Thumbnail.jpg
+Image: https://magazine-backend.netlify.app/blog1/Image.jpg
+Background: https://magazine-backend.netlify.app/blog1/Background.jpg
+Content:
+
+# Inside the Mind of a Hacker
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Sophisticated Phishing Tricks: The Deception Technique
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+#### Customized Bait:
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+#### Fake Sites:
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+#### Urgent Alerts:
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Deceptive Apps That Make You Famous Overnight:
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Man-in-the-Middle Attacks and Bait-and-Switch:
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Session Hijacking: Crashing Your Secure Connection
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+
+---
+Title: Data Storage In DNA:
+Content: DNA: The Future of Data Storage? In an era where data rules the world, storage...
+Thumbnail: https://magazine-backend.netlify.app/blog2/Thumbnail.jpg
+Image: https://magazine-backend.netlify.app/blog2/Image.jpg
+Background: https://magazine-backend.netlify.app/blog2/Background.jpg
+Content:
+
+# Data Storage In DNA
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### DNA as a Data Storage Powerhouse
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Recent Breakthroughs & The Road to Practicality
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### A Future Where DNA Stores the World’s Knowledge
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+---
+Title: Blog Post 3
+Content: Humanity is often painted in black and white; good versus evil, right versus wrong...
+Thumbnail: https://magazine-backend.netlify.app/blog3/Thumbnail.jpg
+Image: https://magazine-backend.netlify.app/blog3/Image.jpg
+Background: https://magazine-backend.netlify.app/blog3/Background.jpg
+Content:
+
+# Gray Side Of Humanity
+## HUMAN OR A LIE?
+
+### A Blend of Light and Darkness
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Emotions and Experiences
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Choices and Consequences
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam odit earum repellendus saepe blanditiis molestias quidem quasi harum corporis unde nam at, libero a doloremque accusantium qui autem rerum adipisci magnam porro ipsa iste, repudiandae asperiores voluptatem? Labore enim rerum vel eum, mollitia temporibus reiciendis est unde? Laborum, laudantium exercitationem?
+
+### Empathy—But Only When It’s Convenient
+Empathy can be selective and inconsistent.
+
