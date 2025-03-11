@@ -58,7 +58,7 @@ Image: https://magazine-backend.netlify.app/blog3/Image.jpg
 Background: https://magazine-backend.netlify.app/blog3/Background.jpg
 Content:
 
-# Gray Side Of Humanity
+# Gray Side Of Humanity (3)
 ## HUMAN OR A LIE?
 
 ### A Blend of Light and Darkness
